@@ -1,0 +1,183 @@
+
+        .inTitulo {
+            display: flex;
+            height: 300px;
+            margin-left: 10px;
+            margin-top: 50px;
+        }
+
+        .inRoxo {
+            font-size: 28px;
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        .input {
+            min-height: 50px;
+            font-size: 30px;
+            border-color: rgb(1, 126, 1);
+        }
+
+        .imgVestido {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+
+        }
+
+        .imgLegging {
+            display: flex;
+            margin-left: 250px;
+            height: 248px;
+
+        }
+
+        .imgIphone {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgNotebook {
+            display: flex;
+            margin-left: 300px;
+            height: 248px;
+        }
+
+        .imgSofa {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgGeladeira {
+            display: flex;
+            margin-left: 300px;
+            height: 248px;
+        }
+
+        .imgJack {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgAzeite {
+            display: flex;
+            margin-left: 350px;
+            height: 248px;
+        }
+
+        .imgBody {
+            display: flex;
+            margin: 10px;
+            margin-left: 150px;
+            margin-bottom: -300px;
+            height: 300px;
+        }
+
+        .imgPaleta {
+            display: flex;
+            margin-left: 430px;
+            height: 300px;
+        }
+
+        .imgCopa {
+            display: flex;
+            margin: 10px;
+            margin-left: 180px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgFlamengo {
+            display: flex;
+            margin-left: 600px;
+            height: 248px;
+        }
+
+        .imgCadeirinha {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgCachorrinho {
+            display: flex;
+            margin-left: 250px;
+            height: 248px;
+        }
+
+        .imgFiat {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgPalio {
+            display: flex;
+            margin-left: 320px;
+            height: 248px;
+        }
+
+        .imgPlaystation {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgAssassins {
+            display: flex;
+            margin-left: 500px;
+            height: 248px;
+        }
+
+        .img1984 {
+            display: flex;
+            margin: 10px;
+            margin-bottom: -240px;
+            height: 248px;
+        }
+
+        .imgHarry {
+            display: flex;
+            margin-left: 400px;
+            height: 248px;
+        }
+         .cadastre{
+            display: flex;
+            font-size: 28px;
+            padding: 20px 20px;
+            border: none;
+            border-radius: 8px;
+            margin-top: -90px;
+            margin-left: 1550px;
+            border-style: double;
+            background-color: rgb(43, 124, 245);
+            color: aliceblue;
+            cursor: pointer;
+
+        }
+
+       .barra{
+            position: static;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 100px;
+            background-color: rgb(1, 126, 1);
+            display: flex;
+        }
+        .barra1{
+            position: static;
+            height: 20px;
+            background-color: rgb(1, 126, 1);
+            display: flex;
+        }
